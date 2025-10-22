@@ -1,0 +1,233 @@
+# COPYRIGHT ET LICENCE PROPRIÉTAIRE
+
+## Propriété Intellectuelle Exclusive - Tous Droits Réservés Mondialement
+
+---
+
+### INFORMATIONS SUR LE TITULAIRE DES DROITS
+
+**Copyright © 2025 Bilel CHOGRANI**  
+**Auteur et Créateur Exclusif :** Bilel CHOGRANI  
+**Date de Naissance :** 05/08/1981, Marseille, France  
+**Date d'Établissement :** 22 octobre 2025  
+
+**TOUS DROITS RÉSERVÉS - ALL RIGHTS RESERVED - TODOS LOS DERECHOS RESERVADOS**
+
+---
+
+### ARTICLE 1 - PROPRIÉTÉ ET PATERNITÉ EXCLUSIVE
+
+Ce logiciel, incluant mais sans s'y limiter : le code source, les fichiers binaires, 
+la documentation, les concepts, l'architecture, les algorithmes, les designs, les 
+interfaces et toute création associée (ci-après "l'Œuvre") sont l'unique et exclusive 
+création intellectuelle de **Bilel CHOGRANI**.
+
+**Paternité inaliénable, imprescriptible et perpétuelle :** Bilel CHOGRANI
+
+L'Œuvre est protégée par :
+- Les lois françaises (Code de la Propriété Intellectuelle - Articles L111-1 et suivants)
+- La Convention de Berne (173 pays signataires)
+- L'Accord ADPIC de l'OMC
+- Les Traités OMPI (WIPO Copyright Treaty)
+- Le Digital Millennium Copyright Act (DMCA) - États-Unis
+- La Directive européenne 2001/29/CE
+- Toutes les législations nationales et internationales applicables
+
+---
+
+### ARTICLE 2 - INTERDICTION TOTALE D'UTILISATION
+
+**AUCUNE PERMISSION N'EST ACCORDÉE** pour :
+
+❌ Utiliser ce logiciel à quelque fin que ce soit  
+❌ Copier, reproduire ou distribuer tout ou partie de l'Œuvre  
+❌ Modifier, adapter ou créer des œuvres dérivées  
+❌ Décompiler, désassembler ou faire de la rétro-ingénierie  
+❌ Louer, prêter, vendre ou sous-licencier l'Œuvre  
+❌ Afficher publiquement ou exécuter l'Œuvre  
+❌ Transmettre ou communiquer l'Œuvre par quelque moyen que ce soit  
+❌ Utiliser à des fins commerciales, éducatives ou personnelles  
+❌ Inclure dans d'autres projets, open-source ou propriétaires  
+❌ Fork, clone ou dérivation sur GitHub ou toute autre plateforme  
+
+**Toute utilisation requiert une autorisation écrite, préalable et explicite de Bilel CHOGRANI.**
+
+---
+
+### ARTICLE 3 - PROTECTION CONTRE LE PLAGIAT ET LA CONTREFAÇON
+
+#### 3.1 Présomption d'Originalité
+L'Œuvre est présumée être une **création originale** de Bilel CHOGRANI. Toute 
+ressemblance, similitude ou parallèle avec d'autres œuvres, codes, ou concepts sera 
+**présumée constituer un plagiat** de la présente création, sauf preuve contraire 
+irréfutable d'antériorité certaine et documentée.
+
+#### 3.2 Définition du Plagiat dans ce Contexte
+Constitue un plagiat sanctionnable :
+- Toute reproduction de code, même partielle ou modifiée
+- Toute adaptation ou traduction du code
+- Toute réutilisation de l'architecture ou des algorithmes
+- Toute inspiration non créditée de concepts présents dans l'Œuvre
+- Toute œuvre présentant des similarités structurelles significatives
+
+#### 3.3 Sanctions Légales
+En vertu des lois applicables, notamment :
+
+**France (Code de la Propriété Intellectuelle) :**
+- Article L335-2 : Contrefaçon → 3 ans d'emprisonnement et 300 000 € d'amende
+- Article L335-3 : Peines aggravées en cas de récidive ou d'organisation
+- Article L331-1-3 : Riposte graduée et sanctions administratives
+
+**International :**
+- DMCA (USA) : Jusqu'à 150 000 $ par œuvre contrefaite
+- UE : Directive 2004/48/CE sur le respect des droits de propriété intellectuelle
+- Accords TRIPS : Obligations de sanctions pénales pour contrefaçon commerciale
+
+---
+
+### ARTICLE 4 - PROCÉDURES JUDICIAIRES ET JURIDICTION
+
+#### 4.1 Actions Légales Réservées
+En cas de violation, Bilel CHOGRANI se réserve le droit d'engager immédiatement :
+
+✅ **Poursuites Pénales :**
+- Dépôt de plainte pour contrefaçon
+- Constitution de partie civile
+- Demande de dommages et intérêts punitifs
+
+✅ **Actions Civiles :**
+- Saisie-contrefaçon (Article L332-1 CPI)
+- Interdiction judiciaire de poursuivre l'exploitation
+- Réparation intégrale du préjudice (manque à gagner, préjudice moral)
+- Publication judiciaire de la condamnation
+
+✅ **Mesures Conservatoires :**
+- Saisie des supports matériels et numériques
+- Blocage des accès en ligne (DMCA Takedown, etc.)
+- Gel des comptes et revenus générés
+
+#### 4.2 Compétence Juridictionnelle
+Les tribunaux français sont compétents en premier lieu. Cependant, Bilel CHOGRANI 
+peut engager des poursuites dans **tout pays** où une violation est constatée, 
+conformément aux traités internationaux.
+
+---
+
+### ARTICLE 5 - CONNAISSANCE ET ACCEPTATION DE LA LICENCE
+
+**"NUL N'EST CENSÉ IGNORER LA LOI"** - Principe juridique universel
+
+Par le simple fait de :
+- Consulter ce dépôt GitHub
+- Télécharger tout ou partie de l'Œuvre
+- Accéder au code source
+- Lire la documentation
+
+**Vous reconnaissez avoir pris connaissance de cette licence et vous vous engagez à la respecter intégralement.**
+
+L'ignorance de ces termes ne pourra en aucun cas être invoquée comme moyen de défense.
+
+---
+
+### ARTICLE 6 - PREUVE ET HORODATAGE
+
+Cette Œuvre est :
+- Publiée sur GitHub avec horodatage cryptographique (Git commits)
+- Protégée par les systèmes de version distribuée
+- Potentiellement enregistrée auprès d'organismes officiels (INPI, Copyright Office, etc.)
+
+Toute tentative de modification de l'historique Git ou de falsification de dates sera 
+considérée comme une circonstance aggravante.
+
+---
+
+### ARTICLE 7 - ABSENCE DE GARANTIE
+
+L'Œuvre est fournie "EN L'ÉTAT" (AS IS), sans aucune garantie expresse ou implicite, 
+y compris mais sans s'y limiter :
+- Garanties de qualité marchande
+- Garanties d'adéquation à un usage particulier
+- Garanties de non-contrefaçon de droits tiers
+
+**Bilel CHOGRANI ne peut être tenu responsable de :**
+- Tout dommage direct, indirect, accessoire ou consécutif
+- Pertes de données, profits ou d'opportunités commerciales
+- Utilisation abusive ou non autorisée par des tiers
+
+---
+
+### ARTICLE 8 - NOTIFICATIONS DMCA ET RÉCLAMATIONS
+
+#### Pour signaler une contrefaçon de cette Œuvre :
+Contactez directement **Bilel CHOGRANI** avec les informations suivantes :
+1. Identification précise de l'Œuvre protégée
+2. Localisation de la contrefaçon présumée (URL, dépôt, etc.)
+3. Vos coordonnées complètes
+4. Déclaration de bonne foi
+
+#### Si vous recevez une réclamation de contrefaçon :
+Cessez immédiatement toute utilisation et contactez Bilel CHOGRANI pour régularisation.
+
+---
+
+### ARTICLE 9 - MODIFICATIONS DE LA LICENCE
+
+Bilel CHOGRANI se réserve le droit de modifier cette licence à tout moment. 
+Les modifications prendront effet immédiatement après publication dans ce dépôt.
+
+La version en vigueur est celle présente dans la branche principale (main/master) 
+du dépôt officiel.
+
+---
+
+### ARTICLE 10 - DIVISIBILITÉ ET INTÉGRALITÉ
+
+Si une clause de cette licence est jugée invalide ou inapplicable par un tribunal 
+compétent, les autres clauses restent pleinement en vigueur.
+
+Cette licence constitue l'intégralité de l'accord concernant l'Œuvre et remplace 
+tous accords antérieurs, écrits ou oraux.
+
+---
+
+### ARTICLE 11 - CONTACT ET DEMANDES D'AUTORISATION
+
+Pour toute demande d'autorisation, licence commerciale ou information :
+
+**Bilel CHOGRANI**  
+Créateur et Titulaire Exclusif des Droits  
+Email : [Votre adresse email]  
+GitHub : [Votre profil GitHub]
+
+⚠️ **Les demandes d'autorisation doivent être formulées par écrit et recevront une réponse dans un délai raisonnable.**
+
+---
+
+## AVERTISSEMENT FINAL
+
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║                                                                   ║
+║  ⚠️  PROPRIÉTÉ PRIVÉE - ACCÈS ET UTILISATION INTERDITS  ⚠️       ║
+║                                                                   ║
+║  Ce code est protégé par les lois internationales sur le         ║
+║  droit d'auteur. Toute violation fera l'objet de poursuites.    ║
+║                                                                   ║
+║  Copyright © 2025 Bilel CHOGRANI - Tous droits réservés         ║
+║                                                                   ║
+║  NUL N'EST CENSÉ IGNORER LA LOI                                  ║
+║                                                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+**Date d'Entrée en Vigueur :** 22 octobre 2025  
+**Juridiction Applicable :** Mondiale (tous pays)  
+**Langue Juridique de Référence :** Français  
+
+**EN CAS DE CONFLIT ENTRE VERSIONS LINGUISTIQUES, LA VERSION FRANÇAISE PRÉVAUT.**
+
+---
+
+*Ce document constitue une licence légale contraignante. Conservez-en une copie.*
